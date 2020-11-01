@@ -20,11 +20,11 @@ Work experience
 * 2018-2019: Quantitative Analyst
   * M&G plc
   * Developed M&G's first systematic quantitative equities fund using R and Python
- * 2017-2018: Investment Graduates
+* 2017-2018: Investment Graduates
   * M&G plc
   * 3 month rotations in Fixed Income, Infrastructure Debt, Alternative Credit portfolio management, Multi-Asset and Equities
   * Developed a database for the Value Equities franchise that allowed for time series analysis of data formerly held in timestamped excel spreadsheets
- * 2016: Investment Placement Student
+* 2016: Investment Placement Student
   * M&G plc
   * 6 month placement student writing a thesis studying the decision making process of equities fund managers with respect to theories from behavioural finance based on extensive interviews
   
